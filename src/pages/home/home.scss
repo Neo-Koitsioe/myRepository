@@ -1,3 +1,38 @@
 page-home {
+    .border{
+        border-right: 2px solid black; 
 
+    }
+    #left,#right{
+        padding: 5%;
+        width: 50%;
+        float:left;
+        text-align: center;
+
+        button{
+            width: 100%;
+            background: orange;
+            color: black;
+        }
+
+        
+     
+
+    }
+    
+    #reset button{
+        width: 40%;
+        background: orange;
+        color: black;
+        text-align: center;
+        margin-left: 30%;
+        margin-bottom: 10%; 
+        
+    }   
+
+    
 }
+
+
+
+
